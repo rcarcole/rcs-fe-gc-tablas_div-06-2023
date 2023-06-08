@@ -1,0 +1,32 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    text-align: center;
+    border: 2px solid black;
+    color: brown;
+}
+
+.amarillo{
+    background-color: #ffff99;
+}
+
+.naranja{
+    background-color: #ffcc99;
+}
+
+.verde{
+    background-color: #ccffcc;
+}
+
+.imagen{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-9t1qEPDK2Byg86WkcgHrpFyA2V8wxN0V7hqbTunmTi6HGoFjNFCUEy6HISHT5QjMjA&usqp=CAU');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+.border-top-deleted{
+    border-top: none;
+}
