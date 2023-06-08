@@ -1,0 +1,43 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    align-items: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-9t1qEPDK2Byg86WkcgHrpFyA2V8wxN0V7hqbTunmTi6HGoFjNFCUEy6HISHT5QjMjA&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.container {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+td, caption {
+    text-align: center;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, caption {
+    border: 2px solid black;
+    text-align: center;
+}
+
+div {
+    width: 50rem;
+    height: 50px;
+  }

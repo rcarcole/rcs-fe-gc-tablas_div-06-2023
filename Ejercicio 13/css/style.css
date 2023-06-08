@@ -1,0 +1,40 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.izquierda{
+    text-align: left;
+}
+
+.derecha-abajo{
+    text-align: right;
+    vertical-align: bottom;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.azul-claro{
+    background-color: #6fe9ff;
+}
+
+.letra-roja{
+    color: red;
+}
+
+.violeta{
+    background-color: #d8b3ff;
+}
+
+.verde{
+    background-color: #b3ffb3;
+}

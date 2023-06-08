@@ -1,0 +1,30 @@
+body{
+  width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: #00fbff 2px solid;
+  }
+
+  th, td {
+    border: #00fbff 2px solid;
+  }
+
+  th{
+    text-align: center;
+ }
+ 
+
+  .verde {
+    background-color: #00cc00;
+  }
+
+  .verde-claro {
+    background-color: #b3ffb3;
+  }
+
+  .verde-oscuro {
+    background-color:  #005000;
+  }
