@@ -1,0 +1,84 @@
+body {
+    /* background-color: aqua; */
+    background-image: url('../../img/ac.jpg');
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    border: 2px black solid;
+    background-color: aliceblue;
+    margin: 20px;
+    float: left;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#c-1 {
+    background-image: url('../../img/back_mantel.jpg');
+}
+
+#c-2 {
+    background-image: url('../../img/back_mantel.jpg');
+    background-clip: content-box;
+    padding: 30px;
+    width: 150px;
+    height: 140px;
+}
+
+#c-3 {
+    background-image: url('../../img/back_mantel.jpg');
+    background-size: 100% 100%;
+}
+
+#c-4 {
+    background-image: url('../../img/back_mantel.jpg');
+    background-size: 70% 70%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#c-5 {
+    background-image: url('../../img/dh.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#c-6 {
+    background-image: url('../../img/dh.jpg');
+    background-size: 70% 70%;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+#c-7 {
+    background-image: url('../../img/dh_2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50% 50%;
+}
+
+#c-8 {
+    background-image: url('../../img/dh_3.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-position: 50% 50%;
+}
+
+#c-9 {
+    background: linear-gradient(to right, #d2ff52 0%, #566647 100%);
+}
+
+#c-10 {
+    background: linear-gradient(to bottom, rgba(240, 183, 161, 1) 0%, rgba(140, 51, 16, 1) 80%, rgba(117, 34, 1, 1) 51%, rgba(191, 110, 78, 1) 100%);
+}
+
+#c-11 {
+    background-image: linear-gradient(to top, rgba(50, 116, 45, 1) 0%, rgba(239, 239, 210, 1) 100%);
+}
+
+#c-12 {
+    background: linear-gradient(to top, rgba(50, 116, 45, 1) 0%, rgba(50, 116, 45, 0) 100%), #ffffff00;
+}
