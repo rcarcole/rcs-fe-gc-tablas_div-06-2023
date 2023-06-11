@@ -1,12 +1,8 @@
-table {
-    border-collapse: collapse;
-    /* width: 100%; */
-}
-
-th, td {
-    border: 2px solid black;
+table, th, td {
+    table-layout: fixed;
+    border: outset;
     text-align: center;
-    /* outline: 2px solid black; */
+    border: outset;
 }
 
 .letraNegra{
