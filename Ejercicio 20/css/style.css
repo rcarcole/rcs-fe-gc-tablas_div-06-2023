@@ -1,0 +1,11 @@
+table, th, td {
+    table-layout: fixed;
+    border: outset;
+    text-align: center;
+    border: outset;
+    
+}
+
+.letraNegra{
+    font-weight: bold;
+}
