@@ -1,31 +1,31 @@
 # rcs-fe-gc-tablas_div-06-2023
 
 11:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2011/deportes
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2011/deportes
 
 12:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2012/deportes
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2012/deportes
 
 13:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2013
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2013
 
 14:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2014
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2014
 
 15:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2015
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2015
 
 16:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2016
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2016
 
 17:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2017
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2017
 
 18:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2018
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2018
 
 19:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2019
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2019
 
 20:
-https://github.com/rcarcole/rcs-fe-gc-tablas_div-06-2023/tree/main/Ejercicio%2020
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2020
