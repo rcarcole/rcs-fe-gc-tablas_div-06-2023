@@ -1,7 +1,7 @@
 # rcs-fe-gc-tablas_div-06-2023
 
 11:
-https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2011/deportes
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2011/deportes/donde.html
 
 12:
 https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2012/deportes
