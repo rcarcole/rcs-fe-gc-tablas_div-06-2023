@@ -4,10 +4,10 @@
 https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2011/deportes/donde.html
 
 12:
-https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2012/deportes/donde.html
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2012/deportes/instalaciones.html
 
 13:
-https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2013/donde.html
+https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2013
 
 14:
 https://rcarcole.github.io/rcs-fe-gc-tablas_div-06-2023/Ejercicio%2014
